@@ -1,0 +1,2 @@
+# trader
+mensajes de señales
